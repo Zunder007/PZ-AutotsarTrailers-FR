@@ -1,0 +1,5 @@
+ItemName_FR = {
+	ItemName_Autotsar.TrailerFirstTrunk = "Petit coffre de remorque",
+	ItemName_Autotsar.TrailerSecondTrunk = "Grand coffre de remorque",
+	ItemName_Base.TsarEarthing = "Ampoule",
+}
